@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! I'm Glenn Ace Limwell Eiji Gakiya</h2>
+<h2 align="center">Hi 👋! I'm Glenn Ace Limwell Eiji Gakiya Gargar</h2>
 
 ###
 
