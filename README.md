@@ -103,6 +103,9 @@
     <img src="https://img.shields.io/static/v1?message=@GGargy&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Site&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  <a href="https://steamcommunity.com/id/FatMan101" target="_blank"> 
+    <img src="https://img.shields.io/badge/Steam-grey?style=for-the-badge&logoColor=white&labelColor&logo=Steam" height="35" >
+  </a>
 </div>
 
 ###
