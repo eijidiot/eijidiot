@@ -106,15 +106,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/f7/37/50/f73750e62a88f7ca3784c3660e03c0e7.gif"  />
+<img align="right" height="350" src="https://i.pinimg.com/originals/f7/37/50/f73750e62a88f7ca3784c3660e03c0e7.gif"  />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Eiji～さん">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Eiji%EF%BD%9E%E3%81%95%E3%82%93&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/eds9v1lnjveu8hbf03qem2xrt">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=eds9v1lnjveu8hbf03qem2xrt&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
