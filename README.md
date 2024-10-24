@@ -13,11 +13,9 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **Data Analytics and Engineering and QA Test/Engineering**</p>
+- 🌱 I’m currently learning **Data Analytics and Engineering and QA Test/Engineering**</p>
 
-###
-
-<p align="left">-⚡ Fun fact 🎮 I also used to conduct alpha and beta testing for independent games and providing detailed feedback</p>
+- ⚡ Fun fact 🎮 I also used to conduct alpha and beta testing for independent games and providing detailed feedback</p>
 
 ###
 
@@ -85,7 +83,7 @@
 
 ###
 
-<p align="left">> Most are basic knowledge and I may need some refreshers :3</p>
+> Most are basic knowledge and I may need some refreshers :3</p>
 
 ###
 
