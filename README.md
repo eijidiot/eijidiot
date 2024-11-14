@@ -102,9 +102,12 @@
   <a href="https://paypal.me/GGargy?country.x=PH&locale.x=en_US" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@GGargy&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Site&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkTree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   <a href="https://steamcommunity.com/id/FatMan101" target="_blank"> 
     <img src="https://img.shields.io/badge/Steam-grey?style=for-the-badge&logoColor=white&labelColor&logo=Steam" height="35" >
+  </a>
+  <a href="https://www.linkedin.com/in/glenn-ace-limwell-gargar-953046329/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=%230A66C2" height="35" />
   </a>
 </div>
 
