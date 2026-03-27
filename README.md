@@ -14,6 +14,7 @@
 ###
 
 - 🌱 I’m currently learning **Data Analytics/Engineering and QA Test/Engineering**</p>
+- 📌 Re-learning blender once I got a new PC. </p>
 
 - ⚡ Fun fact 🎮 I used to conduct alpha and beta game testing for independent games and provided detailed feedback</p>
 
